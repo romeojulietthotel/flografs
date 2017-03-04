@@ -33,4 +33,4 @@ a donation to somewhere that helps kids in a place where food and water
 are scarce but western bombs are plentiful.
 
 .. [*] Don't laugh, it's possible. [*]_
-
+.. [*] Okay, very unlikely but...
